@@ -10032,6 +10032,7 @@ Stephan Sharpe
 - [Daniel Waters](https://github.com/DryWaters)
 - [Sinkler-Nemeth Istvan](https://github.com/isinkler)
 - [Ahmed Adel Fahmy Hassan](https://github.com/AhmedAdelFahmyHassanIbrahim)
+- [Mahrez K](https://github.com/pyKMahrez/kmahrez)
 - [Morgan Webb](https://github.com/TelefunkenU87)
 - [Zonayed Ahmed](https://github.com/zonayedpca)
 - [Marius Lazar](https://github.com/mariuslazar93)
